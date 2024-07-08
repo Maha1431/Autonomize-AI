@@ -1,7 +1,7 @@
 
 # Autonomize Ai
 
-https://autonomize-ai-m8k6.onrender.com
+https://autonomize-ai-uy6m.vercel.app/
 
 ## Project Documentation
 
